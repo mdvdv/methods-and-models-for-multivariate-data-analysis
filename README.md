@@ -19,7 +19,7 @@ Group: J4133c
 <h2>COURSEWORK PRESENTATION</h2>
 <table>
 <tr>
-<td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/presentation.gif'></td>
+<td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/work_presentation.gif'></td>
 </tr>
 </table>
 
