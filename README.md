@@ -40,6 +40,7 @@ Group: J4133c
 
 :white_check_mark: Statistical tests
 
+
 <table>
 <tr>
 <td>Non Parametric Estimation of PDF in Form of a Histogram and Using Kernel Density Function</td>
@@ -48,6 +49,7 @@ Group: J4133c
 <td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/nonparametric_estimation.png'></td>
 </tr>
 </table>
+
 
 <a name='002'></a>
 <h2>TASK 2. ANALYSIS OF MULTIVARIATE RANDOM VARIABLES</h2>
@@ -66,6 +68,7 @@ Group: J4133c
 
 :white_check_mark: Quality analysis
 
+
 <table>
 <tr>
 <td>Non Parametric Estimation of PDF in Form of a Pairwise Plot and Using Kernel Density Function</td>
@@ -74,6 +77,7 @@ Group: J4133c
 <td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/correlation_estimation.png'></td>
 </tr>
 </table>
+
 
 <a name='003'></a>
 <h2>TASK 3. SAMPLING OF MULTIVARIATE RANDOM VARIABLES</h2>
