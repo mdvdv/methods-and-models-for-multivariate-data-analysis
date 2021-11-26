@@ -26,21 +26,21 @@ Group: J4133c
 <a name='001'></a>
 <h2>TASK 1. ANALYSIS OF UNIVARIATE RANDOM VARIABLES</h2>
 
-:white_check_mark: Substantiation of chosen subsample
+<h3>Content</h3>
 
-:white_check_mark: Plotting a non-parametric estimation of PDF in form of a histogram and using kernel density function
+<ul>
+    <ol type='1'>
+    <li><a>Substantiation of chosen subsample</a></li>
+    <li><a>Plotting a non-parametric estimation of PDF in form of a histogram and using kernel density function</a></li>
+    <li><a>Order statistics estimation and its representation as “box with whiskers” plot</a></li>
+    <li><a>Selection of theoretical distributions that best reflect empirical data</a></li>
+    <li><a>Estimation of random variable distribution parameters using maximum likelihood technique and LS methods</a></li>
+    <li><a>Validation of empirical and theoretical distributions using quantile biplots</a></li>
+    <li><a>Statistical tests</a></li>
+    </ol>
+</ul>
 
-:white_check_mark: Order statistics estimation and its representation as “box with whiskers” plot
-
-:white_check_mark: Selection of theoretical distributions that best reflect empirical data
-
-:white_check_mark: Estimation of random variable distribution parameters using maximum likelihood technique and LS methods
-
-:white_check_mark: Validation of empirical and theoretical distributions using quantile biplots
-
-:white_check_mark: Statistical tests
-
-
+<h3>Results</h3>
 
 <table>
 <tr>
@@ -51,26 +51,24 @@ Group: J4133c
 </tr>
 </table>
 
-
-
 <a name='002'></a>
 <h2>TASK 2. ANALYSIS OF MULTIVARIATE RANDOM VARIABLES</h2>
 
-:white_check_mark: Plotting a non-parametric estimation of PDF in form of a histogram and using kernel density function for MRV
+<h3>Content</h3>
 
-:white_check_mark: Estimation of multivariate mathematical expectation and variance
+<ul>
+    <ol type='1'>
+    <li><a>Plotting a non-parametric estimation of PDF in form of a histogram and using kernel density function for MRV</a></li>
+    <li><a>Estimation of multivariate mathematical expectation and variance</a></li>
+    <li><a>Non-parametric estimation of conditional distributions, mathematical expectations and variances</a></li>
+    <li><a>Estimation of pair correlation coefficients, confidence intervals for them and significance levels</a></li>
+    <li><a>Task formulation for regression, multivariate correlation</a></li>
+    <li><a>Regression model, multicollinearity and regularization</a></li>
+    <li><a>Quality analysis</a></li>
+    </ol>
+</ul>
 
-:white_check_mark: Non-parametric estimation of conditional distributions, mathematical expectations and variances
-
-:white_check_mark: Estimation of pair correlation coefficients, confidence intervals for them and significance levels
-
-:white_check_mark: Task formulation for regression, multivariate correlation
-
-:white_check_mark: Regression model, multicollinearity and regularization
-
-:white_check_mark: Quality analysis
-
-
+<h3>Results</h3>
 
 <table>
 <tr>
@@ -81,17 +79,28 @@ Group: J4133c
 </tr>
 </table>
 
-
-
 <a name='003'></a>
 <h2>TASK 3. SAMPLING OF MULTIVARIATE RANDOM VARIABLES</h2>
 
-:white_check_mark: Substantiation of chosen sampling
+<h3>Content</h3>
 
-:white_check_mark: Sampling of chosen target variables using univariate parametric distributions with 2 different sampling methods
+<ul>
+    <ol type='1'>
+    <li><a>Substantiation of chosen sampling</a></li>
+    <li><a>Sampling of chosen target variables using univariate parametric distributions with 2 different sampling methods</a></li>
+    <li><a>Estimation of relations between predictors and chosen target variables</a></li>
+    <li><a>Bayesian network</a></li>
+    <li><a>Quality analysis</a></li>
+    </ol>
+</ul>
 
-:white_check_mark: Estimation of relations between predictors and chosen target variables
+<h3>Results</h3>
 
-:white_check_mark: Bayesian network
-
-:white_check_mark: Quality analysis
+<table>
+<tr>
+<td>Bayesian Network</td>
+</tr>
+<tr>
+<td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/model.png'></td>
+</tr>
+</table>
