@@ -18,7 +18,7 @@ Group: J4322c
 <h2>COURSEWORK PRESENTATION</h2>
 <table>
 <tr>
-<td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/work_presentation.gif'></td>
+<td bgcolor=white><img src='https://user-images.githubusercontent.com/83948828/179036380-44950fc2-f61f-4404-a6fb-c337aca6b556.gif'></td>
 </tr>
 </table>
 
@@ -46,7 +46,7 @@ Group: J4322c
 <td>Non Parametric Estimation of PDF in Form of a Histogram and Using Kernel Density Function</td>
 </tr>
 <tr>
-<td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/nonparametric_estimation.png'></td>
+<td bgcolor=white><img src='https://user-images.githubusercontent.com/83948828/179036539-893c0a34-e778-400e-8c9d-d09cd2d4cf07.png'></td>
 </tr>
 </table>
 
@@ -74,7 +74,7 @@ Group: J4322c
 <td>Non Parametric Estimation of PDF in Form of a Pairwise Plot and Using Kernel Density Function</td>
 </tr>
 <tr>
-<td bgcolor=white><img src='https://github.com/mdvdv/methods-and-models-for-multivariate-data-analysis/blob/main/utils/correlation_estimation.png'></td>
+<td bgcolor=white><img src='https://user-images.githubusercontent.com/83948828/179036619-6402720b-1a3b-49dc-94c1-9a7aa71f47da.png'></td>
 </tr>
 </table>
 
